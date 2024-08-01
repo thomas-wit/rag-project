@@ -5,3 +5,4 @@ pytest
 openai
 streamlit
 langchain_community
+langchain_chroma
