@@ -9,7 +9,7 @@ from get_embedding_function import get_embedding_function
 from langchain_chroma import Chroma
 
 CHROMA_PATH = "chroma"
-DATA_PATH = "/home/jlindsey/fofunprojes/rag/rag-tutorial-v2/data"
+DATA_PATH = "data"
 
 
 def main():
