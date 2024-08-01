@@ -4,3 +4,4 @@ chromadb # Vector storage
 pytest
 openai
 streamlit
+langchain_community
